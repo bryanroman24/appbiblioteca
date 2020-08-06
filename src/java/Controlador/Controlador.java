@@ -5,10 +5,7 @@
  */
 package Controlador;
 
-/**
- *
- * @author Estrella
- */
+
 public class Controlador {
     
 }

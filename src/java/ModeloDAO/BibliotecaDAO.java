@@ -5,10 +5,7 @@
  */
 package ModeloDAO;
 
-/**
- *
- * @author Estrella
- */
+
 public class BibliotecaDAO {
     
 }
